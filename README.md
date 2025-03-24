@@ -10,8 +10,8 @@ This project predicts airline booking data using two models:
 
 
 ## 📋 Key Results
-- **Additive Model MASE:** 0.2596
-- **Multiplicative Model MASE:** 0.4908
+- **Additive Model MASE:** 0.63
+- **Multiplicative Model MASE:** 1.63
 
 ## 🔧 Requirements
 Install dependencies with:
