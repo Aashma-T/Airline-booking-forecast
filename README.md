@@ -1,2 +1,17 @@
-# Airline-booking-forecast
-"Forecasting Airline Booking data using additive and multiplicative models with MASE evaluation."
+# 📊 Airline Booking Forecast
+Forecasting airline booking data using Additive and Multiplicative models with MASE evaluation.
+
+## 🚀 Project Overview
+This project predicts airline booking data using two models:
+- **Additive Model**: Forecasts bookings by adding the average remaining demand.
+- **Multiplicative Model**: Forecasts bookings by dividing cumulative bookings by the average booking rate.
+
+## 📂 Project Structure
+
+
+## 📋 Key Results
+- **Additive Model MASE:** 0.2596
+- **Multiplicative Model MASE:** 0.4908
+
+## 🔧 Requirements
+Install dependencies with:
