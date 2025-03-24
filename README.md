@@ -24,6 +24,6 @@ pip install -r requirements.txt
 
 ## 📈 Visual Results
 Below is a visual comparison of MASE scores between the Additive and Multiplicative models:
-
+https://github.com/Aashma-T/Airline-booking-forecast/blob/main/booking_curve_by_day_of_week%20(1).png
 
 
