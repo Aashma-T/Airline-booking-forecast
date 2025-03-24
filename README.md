@@ -20,4 +20,10 @@ This project predicts airline booking data using two models:
 - **Multiplicative Model MASE:** 1.63
 
 ## 🔧 Requirements
-Install dependencies with:
+pip install -r requirements.txt
+
+## 📈 Visual Results
+Below is a visual comparison of MASE scores between the Additive and Multiplicative models:
+
+
+
